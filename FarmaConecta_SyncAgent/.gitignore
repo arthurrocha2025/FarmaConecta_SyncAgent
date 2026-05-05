@@ -1,0 +1,4 @@
+bin/
+obj/
+*.sqlite
+config.dat

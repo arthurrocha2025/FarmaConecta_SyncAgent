@@ -1,0 +1,18 @@
+Using launch settings from SyncAgent_Service/Properties/launchSettings.json...
+Building...
+info: SyncAgent_Service.Worker[0]
+      Initializing State Manager...
+warn: SyncAgent_Service.Worker[0]
+      Config file not found or invalid. Make sure to run the Setup app first.
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /app/FarmaConecta_SyncAgent/SyncAgent_Service
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+fail: SyncAgent_Service.Worker[0]
+      An error occurred during the sync cycle.
+      System.Threading.Tasks.TaskCanceledException: A task was canceled.
+         at SyncAgent_Service.Worker.ExecuteAsync(CancellationToken stoppingToken) in /app/FarmaConecta_SyncAgent/SyncAgent_Service/Worker.cs:line 37

@@ -1,0 +1,14 @@
+You must install or update .NET to run this application.
+
+App: /app/FarmaConecta_SyncAgent/SyncAgent_Setup/bin/Debug/net8.0-windows/SyncAgent_Setup
+Architecture: x64
+Framework: 'Microsoft.WindowsDesktop.App', version '8.0.0' (x64)
+.NET location: /usr/lib/dotnet
+
+No frameworks were found.
+
+Learn more:
+https://aka.ms/dotnet/app-launch-failed
+
+To install missing framework, download:
+https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=8.0.0&arch=x64&rid=ubuntu.24.04-x64&os=ubuntu.24.04
