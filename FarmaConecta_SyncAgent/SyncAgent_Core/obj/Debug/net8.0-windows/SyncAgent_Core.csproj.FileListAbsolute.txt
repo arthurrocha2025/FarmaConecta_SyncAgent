@@ -1,0 +1,13 @@
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/bin/Debug/net8.0-windows/SyncAgent_Core.deps.json
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/bin/Debug/net8.0-windows/SyncAgent_Core.dll
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/bin/Debug/net8.0-windows/SyncAgent_Core.pdb
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.csproj.AssemblyReference.cache
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.GeneratedMSBuildEditorConfig.editorconfig
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.AssemblyInfoInputs.cache
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.AssemblyInfo.cs
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.csproj.CoreCompileInputs.cache
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.sourcelink.json
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.dll
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/refint/SyncAgent_Core.dll
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/SyncAgent_Core.pdb
+/app/FarmaConecta_SyncAgent/SyncAgent_Core/obj/Debug/net8.0-windows/ref/SyncAgent_Core.dll

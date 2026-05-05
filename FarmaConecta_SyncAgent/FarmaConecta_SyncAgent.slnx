@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SyncAgent_Core/SyncAgent_Core.csproj" />
+  <Project Path="SyncAgent_Service/SyncAgent_Service.csproj" />
+  <Project Path="SyncAgent_Setup/SyncAgent_Setup.csproj" />
+</Solution>
